@@ -11,8 +11,8 @@ In particolare, la repsitory contiene le slides utilizzate a lezione. I contenut
 ## Programma e Slides
 La seguente tabella riporta la suddivisione degli argomenti del corso per lezione e le relative slides utilizzate.
 Le slides sono disponibili in due formati diversi:
-* versione _HTLM_ (colonna _Slides_): possono essere visualizzate all'interno del browser e contengono animazioni
-* versione _.pdf_ (colonna _.pdf_): sono pensate per essere scaricate ed eventualmente stampate; non contengono animazioni.
+* versione **HTLM** (colonna _Slides_): possono essere visualizzate all'interno del browser e contengono animazioni
+* versione **.pdf** (colonna _.pdf_): sono pensate per essere scaricate ed eventualmente stampate; non contengono animazioni.
 
 **Class No** | **Class**                |  **Date**  |                                    **Slides**                                     | **.pdf**    |
 |:----------:| ------------------------ | :--------: | :-------------------------------------------------------------------------------: | :---------: |
@@ -22,4 +22,17 @@ Le slides sono disponibili in due formati diversi:
 | 4          | Presentations            | 16/12/2022 | coming soon                                                                       | coming soon |
 
 ## LICENSE
-TBD
+BSD 2-Clause License
+
+Copyright (c) 2022, Andrea Poltronieri
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
