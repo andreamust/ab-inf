@@ -14,12 +14,12 @@ Le slides sono disponibili in due formati diversi:
 * versione **HTLM** (colonna _Slides_): possono essere visualizzate all'interno del browser e contengono animazioni
 * versione **.pdf** (colonna _.pdf_): sono pensate per essere scaricate ed eventualmente stampate; non contengono animazioni.
 
-**Class No** | **Class**                |  **Date**  |                                    **Slides**                                     | **.pdf**    |
+**Class No.** | **Class**                |  **Class Date** (main)  |                                    **Slides**                                     | **.pdf**    |
 |:----------:| ------------------------ | :--------: | :-------------------------------------------------------------------------------: | :---------: |
-| 1          | Introduction & Protocols | 18/11/2022 | [0_introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen)   |             |
-| 2          | Protocols                | 25/11/2022 | [1_internet](https://slides.com/andreapoltronieri/introduction/fullscreen)        |             |
-| 3          | Creating Web Pages       | 02/12/2022 | coming soon                                                                       | coming soon |
-| 4          | Presentations            | 16/12/2022 | coming soon                                                                       | coming soon |
+| 1          | Introduzione al corso    | 18/11/2022 | [0_introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen)   | coming soon |
+| 1-2-3      | Internet, il WWW e i loro servizi | 25/11/2022 | [1_internet](https://slides.com/andreapoltronieri/introduction/fullscreen)        | coming soon |
+| 3          | Creazione di Pagine Web  | 02/12/2022 | coming soon                                                                       | coming soon |
+| 4          | Presentazioni            | 16/12/2022 | coming soon                                                                       | coming soon |
 
 ## LICENSE
 BSD 2-Clause License
