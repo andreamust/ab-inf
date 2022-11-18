@@ -17,12 +17,12 @@ Le slides sono disponibili in due formati diversi:
 - versione **HTLM** (colonna _Slides_): possono essere visualizzate all'interno del browser e contengono animazioni
 - versione **.pdf** (colonna _.pdf_): sono pensate per essere scaricate ed eventualmente stampate; non contengono animazioni.
 
-| **Class No** | **Class**                | **Date** (main) |                                   **Slides**                                    |  **.pdf**   |
-| :----------: | ------------------------ | :-------------: | :-----------------------------------------------------------------------------: | :---------: |
-|      1       | Introduction & Protocols |   18/11/2022    | [0_introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen) |             |
-|      2       | Protocols                |   25/11/2022    |   [1_internet](https://slides.com/andreapoltronieri/introduction/fullscreen)    |             |
-|      3       | Creating Web Pages       |   02/12/2022    |                                   coming soon                                   | coming soon |
-|      4       | Presentations            |   16/12/2022    |                                   coming soon                                   | coming soon |
+| **Class No** | **Class**                | **Date** (main) |                                   **Slides**                                    |                   **.pdf**                   |
+| :----------: | ------------------------ | :-------------: | :-----------------------------------------------------------------------------: | :------------------------------------------: |
+|      1       | Introduction & Protocols |   18/11/2022    | [0_introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen) | [0_introduction](2022-23/0_Introduction.pdf) |
+|      2       | Protocols                |   25/11/2022    |     [1_internet](https://slides.com/andreapoltronieri/internet/fullscreen)      |                 coming soon                  |
+|      3       | Creating Web Pages       |   02/12/2022    |                                   coming soon                                   |                 coming soon                  |
+|      4       | Presentations            |   16/12/2022    |                                   coming soon                                   |                 coming soon                  |
 
 ## LICENSE
 
