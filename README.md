@@ -9,6 +9,10 @@ In particolare, la repsitory contiene le slides utilizzate a lezione. I contenut
 
 **DISCLAIMER**: i contenuti presentati nelle slides sono organizzati in modo diverso rispetto a Virtuale e sono creati appositamente per supportare la didattica in presenza. Per gli studenti non frequentanti la principale risorsa da consultare è [Virtuale](https://virtuale.unibo.it/course/view.php?id=38872).
 
+## Annunci
+
+Gli orari e l'aula delle prossime lezioni sono cambiati, è possibile trovare le informazioni aggiornate a [questo link](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/327509/orariolezioni).
+
 ## Programma e Slides
 
 La seguente tabella riporta la suddivisione degli argomenti del corso per lezione e le relative slides utilizzate.
