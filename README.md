@@ -5,7 +5,7 @@ Questa repository contiene il materiale relativo al corso di Abilità Informatic
 - Letterature moderne, comparate e postcoloniali (0981)
 - Lingua e cultura italiane per stranieri (0983).
 
-In particolare, la repsitory contiene le slides utilizzate a lezione. I contenuti completi necessari per la preparazione dell'esame sono disponibili su [Virtuale](https://virtuale.unibo.it), a [questo link](https://virtuale.unibo.it/course/view.php?id=38872).
+In particolare, la repsitory contiene le slides utilizzate a lezione. I contenuti completi necessari per la preparazione dell'esame sono disponibili su [Virtuale](https://virtuale.unibo.it), a [questo link](https://virtuale.unibo.it/course/view.php?id=53122).
 
 Il materiale dell'Anno Accademico 2022/23 è disponibile nella cartella `2022-23`.
 
