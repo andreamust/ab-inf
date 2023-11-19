@@ -9,7 +9,7 @@ In particolare, la repsitory contiene le slides utilizzate a lezione. I contenut
 
 Il materiale dell'Anno Accademico 2022/23 è disponibile nella cartella `2022-23`.
 
-**DISCLAIMER**: i contenuti presentati nelle slides sono organizzati in modo diverso rispetto a Virtuale e sono creati appositamente per supportare la didattica in presenza. Per gli studenti non frequentanti la principale risorsa da consultare è [Virtuale](https://virtuale.unibo.it/course/view.php?id=38872).
+**DISCLAIMER**: i contenuti presentati nelle slides sono organizzati in modo diverso rispetto a Virtuale e sono creati appositamente per supportare la didattica in presenza. Per gli studenti non frequentanti la principale risorsa da consultare è [Virtuale](https://virtuale.unibo.it/course/view.php?id=53122).
 
 ## Annunci
 
