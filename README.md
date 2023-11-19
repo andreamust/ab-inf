@@ -28,9 +28,9 @@ Le slides sono disponibili in due formati diversi:
 |       1       | 13/11/2023 | Introduzione al corso               | Cos'è l'informatica               | [0-introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen) |  -  |
 |       1       | 13/11/2023 | Internet e Reti                     | Internet, il WWW e i loro servizi |     [1-internet ](https://slides.com/andreapoltronieri/internet/fullscreen)     |     [1_internet.pdf](2022-23/1_Internet.pdf)      |
 |       2       | 14/11/2023 | Reti, protocolli e il WWW           | Internet, il WWW e i loro servizi |          [2-www](https://slides.com/andreapoltronieri/www/fullscreen)           |           [2_www.pdf](2022-23/2_www.pdf)           |
-|       3       | 14/11/2023 | Creazione di pagine web             | Creazione di pagine web           |                                        -                                        |          -          |
-|       3       | 17/11/2023 | Ricerca sul WWW e Profili Giuridici | Internet, il WWW e i loro servizi |            [3-profili](https://slides.com/andreapoltronieri/profili)            |       -       |
-|       4       | 17/11/2023 | Presentazioni                       | Presentazioni                     |                                        -                                        | [5_presentazioni.pdf](2022-23/5_presentazioni.pdf) |
+|       3       | 17/11/2023 | Ricerca sul WWW e Profili Giuridici | Internet, il WWW e i loro servizi |            [3-profili](https://slides.com/andreapoltronieri/profili)            |       [3_profili.pdf](2022-23/3_profili.pdf)       |
+|       3       | 17/11/2023 | Creazione di pagine web             | Creazione di pagine web           |                                        -                                        |          [4_html.pdf](2022-23/4_html.pdf)          |
+|       3       | 17/11/2023 | Presentazioni                       | Presentazioni                     |                                        -                                        | [5_presentazioni.pdf](2022-23/5_presentazioni.pdf) |
 
 ## LICENSE
 
