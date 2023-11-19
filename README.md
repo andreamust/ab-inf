@@ -13,7 +13,7 @@ Il materiale dell'Anno Accademico 2022/23 è disponibile nella cartella `2022-23
 
 ## Annunci
 
-Gli orari e l'aula delle prossime lezioni sono cambiati, è possibile trovare le informazioni aggiornate a [questo link](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/327509/orariolezioni).
+Gli orari e l'aula delle prossime lezioni sono cambiati, è possibile trovare le informazioni aggiornate a [questo link](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/327509).
 
 ## Programma e Slides
 
@@ -26,11 +26,11 @@ Le slides sono disponibili in due formati diversi:
 | **Class No.** |  **Date**  | **Class**                           | **Topic**                         |                                   **Slides**                                    |                    **.pdf**                    |
 | :-----------: | :--------: | ----------------------------------- | --------------------------------- | :-----------------------------------------------------------------------------: | :--------------------------------------------: |
 |       1       | 13/11/2023 | Introduzione al corso               | Cos'è l'informatica               | [0-introduction ](https://slides.com/andreapoltronieri/introduction/fullscreen) |  -  |
-|       1       | 13/11/2023 | Internet e Reti                     | Internet, il WWW e i loro servizi |     [1-internet ](https://slides.com/andreapoltronieri/internet/fullscreen)     |      -      |
-|       2       | 14/11/2023 | Reti, protocolli e il WWW           | Internet, il WWW e i loro servizi |          [2-www](https://slides.com/andreapoltronieri/www/fullscreen)           |           -           |
+|       1       | 13/11/2023 | Internet e Reti                     | Internet, il WWW e i loro servizi |     [1-internet ](https://slides.com/andreapoltronieri/internet/fullscreen)     |     [1_internet.pdf](2022-23/1_Internet.pdf)      |
+|       2       | 14/11/2023 | Reti, protocolli e il WWW           | Internet, il WWW e i loro servizi |          [2-www](https://slides.com/andreapoltronieri/www/fullscreen)           |           [2_www.pdf](2022-23/2_www.pdf)           |
 |       3       | 14/11/2023 | Creazione di pagine web             | Creazione di pagine web           |                                        -                                        |          -          |
 |       3       | 17/11/2023 | Ricerca sul WWW e Profili Giuridici | Internet, il WWW e i loro servizi |            [3-profili](https://slides.com/andreapoltronieri/profili)            |       -       |
-|       4       | 17/11/2023 | Presentazioni                       | Presentazioni                     |                                        -                                        | - |
+|       4       | 17/11/2023 | Presentazioni                       | Presentazioni                     |                                        -                                        | [5_presentazioni.pdf](2022-23/5_presentazioni.pdf) |
 
 ## LICENSE
 
