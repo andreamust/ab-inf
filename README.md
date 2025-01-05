@@ -5,7 +5,7 @@ Questa repository contiene il materiale relativo al corso di Abilità Informatic
 - Letterature moderne, comparate e postcoloniali (0981)
 - Lingua e cultura italiane per stranieri (0983).
 
-In particolare, la repsitory contiene le slides utilizzate a lezione. I contenuti completi necessari per la preparazione dell'esame sono disponibili su [Virtuale](https://virtuale.unibo.it), a [questo link](#).
+In particolare, la repsitory contiene le slides utilizzate a lezione. I contenuti completi necessari per la preparazione dell'esame sono disponibili su [Virtuale](https://virtuale.unibo.it), a [questo link](https://virtuale.unibo.it/course/view.php?id=66527).
 
 Il materiale degli scorsi Anni Accademici è disponibile nelle rispettive cartelle di questa repository (es. 2023-24).
 
@@ -29,9 +29,9 @@ Le slides sono disponibili in due formati diversi:
 | :-----------: | :--------: | ----------------------------------- | --------------------------------- | :---------------------------------------------------------------------: | :------------------------------------------------: |
 |       1       | 04/11/2024 | Internet e Reti                     | Internet, il WWW e i loro servizi | [1-internet ](https://slides.com/andreapoltronieri/internet/fullscreen) |      [1_internet.pdf](2024-25/1_Internet.pdf)      |
 |       2       | 11/11/2024 | Reti, protocolli e il WWW           | Internet, il WWW e i loro servizi |      [2-www](https://slides.com/andreapoltronieri/www/fullscreen)       |           [2_www.pdf](2024-25/2_www.pdf)           |
-|       3       | 18/11/2024 | Ricerca sul WWW e Profili Giuridici | Internet, il WWW e i loro servizi |        [3-profili](https://slides.com/andreapoltronieri/profili)        |       [3_profili.pdf](2024-25/3_profili.pdf)       |
-|       3       | 18/11/2024 | Creazione di pagine web             | Creazione di pagine web           |                                    -                                    |          [4_html.pdf](2024-25/4_html.pdf)          |
-|       3       | 18/11/2024 | Presentazioni                       | Presentazioni                     |                                    -                                    | [5_presentazioni.pdf](2024-25/5_presentazioni.pdf) |
+|       3       | 12/11/2024 | Ricerca sul WWW e Profili Giuridici | Internet, il WWW e i loro servizi |        [3-profili](https://slides.com/andreapoltronieri/profili)        |       [3_profili.pdf](2024-25/3_profili.pdf)       |
+|       3       | 12/11/2024 | Creazione di pagine web             | Creazione di pagine web           |                                    -                                    |          [4_html.pdf](2024-25/4_html.pdf)          |
+|       3       | 12/11/2024 | Presentazioni                       | Presentazioni                     |                                    -                                    | [5_presentazioni.pdf](2024-25/5_presentazioni.pdf) |
 
 ## LICENSE
 
